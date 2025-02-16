@@ -13,8 +13,8 @@
 
 ### 1️⃣ Клонирование репозитория
 ```bash
-git clone https://github.com/your-repo/telegram-bot.git
-cd telegram-bot
+git clone https://github.com/lemon143267/infobot
+cd infobot
 ```
 
 ### 2️⃣ Установка зависимостей
