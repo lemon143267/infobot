@@ -6,8 +6,8 @@ import traceback
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # 🔑 Токен бота
-TOKEN = "7932050193:AAFcRkfkv23Vl5wec9iuzMgxYkxKOnDjWQI"
-ADMIN_ID = 1438353359  # Ваш Telegram ID
+TOKEN = "получить можно в @BotFather"
+ADMIN_ID =   # Ваш Telegram ID
 
 # 📂 Файл с командами
 COMMANDS_FILE = "commands.json"
